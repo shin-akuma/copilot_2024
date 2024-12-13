@@ -7,13 +7,13 @@
 # Hack Day Presentations
 
 ## Tips Tricks and Best Practices for GitHub Copilot
-- [Slides](./Tips&nbsp;Tricks&nbsp;and&nbsp;Best&nbsp;Practices&nbsp;for&nbsp;GitHub&nbsp;Copilot.pdf)
+- [Slides](./Tips%20Tricks%20and%20Best%20Practices%20for%20GitHub%20Copilot.pdf)
 
 ## GitHub Copilot for ML and DataOps
 - [Slides](./Github-Copilot-ML-Data-Ops.pdf)
 
 ## Introduction to Prompt Engineering for GitHub Copilot
-- [Slides](./Introduction&nbsp;to&nbsp;Prompt&nbsp;Engineering&nbsp;for&nbsp;GitHub&nbsp;Copilot.pdf)
+- [Slides](./Introduction%20to%20Prompt%20Engineering%20for%20GitHub%20Copilot.pdf)
 
 </div>
 
