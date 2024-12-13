@@ -1,6 +1,21 @@
-# Plexure Hackathon
+# 2024 Hackathon
 
 <div style="display: flex;">
+
+<div style="flex: 1; padding-right: 10px;">
+
+# Hack Day Presentations
+
+## Tips Tricks and Best Practices for GitHub Copilot
+- [Slides](./Tips&nbsp;Tricks&nbsp;and&nbsp;Best&nbsp;Practices&nbsp;for&nbsp;GitHub&nbsp;Copilot.pdf)
+
+## GitHub Copilot for ML and DataOps
+- [Slides](./Github-Copilot-ML-Data-Ops.pdf)
+
+## Introduction to Prompt Engineering for GitHub Copilot
+- [Slides](./Introduction&nbsp;to&nbsp;Prompt&nbsp;Engineering&nbsp;for&nbsp;GitHub&nbsp;Copilot.pdf)
+
+</div>
 
 <div style="flex: 1; padding-right: 10px;">
 
