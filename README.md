@@ -1,7 +1,7 @@
 # 2024 Hackathon
 
 <div style="display: flex;">
-
+</br>
 <div style="flex: 1; padding-right: 10px;">
 
 # Hack Day Presentations
@@ -16,7 +16,7 @@
 - [Introduction to Prompt Engineering for GitHub Copilot.pdf](./Introduction%20to%20Prompt%20Engineering%20for%20GitHub%20Copilot.pdf)
 
 </div>
-
+</br>
 <div style="flex: 1; padding-right: 10px;">
 
 # Hack Day Labs
@@ -31,7 +31,7 @@
 - [MyMvcApp Contact Database Application](https://github.com/CloudLabsAI-Azure/MyMvcApp-Contact-Databse-Application)
 
 </div>
-
+</br>
 <div style="flex: 1; padding-left: 10px;">
 
 # Learning Paths
