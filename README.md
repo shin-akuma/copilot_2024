@@ -10,7 +10,7 @@
 - [Tips Tricks and Best Practices for GitHub Copilot.pdf](./Tips-Tricks-Best-Practices-GitHub-Copilot.pdf)
 
 ## GitHub Copilot for ML and DataOps
-- [Github-Copilot-ML-Data-Ops.pdf](./GitHub-Copilot-ML-Data-Ops.pdf)
+- [GitHub Copilot for ML and Data Ops.pdf](./GitHub-Copilot-ML-Data-Ops.pdf)
 
 ## Introduction to Prompt Engineering
 - [Introduction to Prompt Engineering for GitHub Copilot.pdf](./Introduction-to-Prompt-Engineering-GitHub-Copilot.pdf)
