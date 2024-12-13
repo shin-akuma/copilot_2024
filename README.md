@@ -12,7 +12,7 @@
 ## GitHub Copilot for ML and DataOps
 - [Github-Copilot-ML-Data-Ops.pdf](./Github-Copilot-ML-Data-Ops.pdf)
 
-## Introduction to Prompt Engineering for GitHub Copilot
+## Introduction to Prompt Engineering
 - [Introduction to Prompt Engineering for GitHub Copilot.pdf](./Introduction%20to%20Prompt%20Engineering%20for%20GitHub%20Copilot.pdf)
 
 </div>
